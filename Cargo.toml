@@ -239,6 +239,7 @@ members = [
     "gix-diff",
     "gix-date",
     "gix-traverse",
+    "gix-dir",
     "gix-index",
     "gix-bitmap",
     "gix-worktree",
